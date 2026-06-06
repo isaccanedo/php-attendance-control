@@ -1,2 +1,2 @@
-# php-attendance-control
+## php-attendance-control
 :rocket: Attendance Control with PHP
